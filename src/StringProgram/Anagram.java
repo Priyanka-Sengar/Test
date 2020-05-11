@@ -6,6 +6,9 @@ public class Anagram {
 		String name="javatpoint";  
 		char ch=name.charAt(6);//returns the char value at the 4th index  
 		System.out.println(ch);  
+
+
+ABDCEF
 		}
 
 }
